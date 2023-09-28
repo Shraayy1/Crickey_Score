@@ -1,3 +1,8 @@
 body {
-    min-width: 300px;
-}
+    min-width: 700px;
+    min-height: 200px;
+    background-image: url("cricket bat.jpeg");
+    background-repeat: no-repeat, repeat;
+    background-color: #cccccc;
+
+   }
